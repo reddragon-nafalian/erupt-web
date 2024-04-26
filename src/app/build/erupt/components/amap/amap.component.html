@@ -9,6 +9,11 @@
                 class="mb-sm"
                 (click)="clearLocation()"><i nz-icon nzType="close" nzTheme="outline"></i>
         </button>
+        <button nz-button nzType="default"
+                (click)="toggleMarker()"
+                [ngStyle]="{'border': markStatus ? '2px solid #168df5' : ''}">
+            &nbsp; {{"global.mark"|translate}} &nbsp;
+        </button>
     </div>
 
     <nz-autocomplete #auto>

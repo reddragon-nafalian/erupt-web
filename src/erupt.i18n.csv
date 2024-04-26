@@ -13,6 +13,7 @@ global.all,全部,全部,All,La totalité des,全部,전부,все,total
 global.check_all,全选,全選,Check all,Aléatoire!,すべて選択,전체선택,выбира,QuanXuan
 global.check_none,不选,不選,Uncheck,ne,選択しない,선택하지않음,Не выбра,No seleccionado
 global.ok,确定,確定,OK,déterminer,を選択します,확실합니다,увер,determinar
+global.mark,标记,標記,Mark,Le marquage,マークします,표기,метк,marcadores
 global.keyword,请输入关键字,請輸入關鍵字,Please enter key words,Veuillez entrer un mot-clé,キーワードを入力してください,키워드를입력하세요,Введите ключевое слово,Por favor introduzca una palabra clave
 global.close,关闭,關閉,Close,La fermeture,閉じる,닫기,закр,cierre
 global.view,查看,查看,View,voir,表示,보기,провер,ver
